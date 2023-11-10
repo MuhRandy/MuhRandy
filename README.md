@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Randy
-- 👀 I’m interested in Web Development (Frontend) and Data Analyst
-- 🌱 I’m currently learning React, Typescript, Python
+- 👀 I’m interested in Web Development (Frontend)
+- 🌱 I’m currently learning React and Typescript
 
 <!---
 - 💞️ I’m looking to collaborate on ...
