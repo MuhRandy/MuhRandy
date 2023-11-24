@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Randy
-- 👀 I’m interested in Web Development (Frontend)
-- 🌱 I’m currently learning React and Typescript
+- 👀 I’m interested in Web Development (MERN fullstack)
+- 🌱 I’m currently learning React, Typescript, Mongodb, Express, and Node.js
 
 <!---
 - 💞️ I’m looking to collaborate on ...
