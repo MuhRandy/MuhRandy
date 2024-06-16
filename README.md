@@ -10,9 +10,9 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 [![X Badge](https://img.shields.io/badge/Twitter-000?logo=x&logoColor=fff&style=flat)](https://twitter.com/RandyThz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrandy0027@gmail.com)
 
-- &nbsp;I’m currently looking for internshipmor full-time position as a frontend developer
-- &nbsp;I’m currently learning javascript and node js
-- &nbsp;and i am very interested in Web Development
+- 👀 I am currently looking for internship or full-time position as a frontend developer
+- 📖 I am currently learning javascript and node js
+- 🖥 and I am very interested in Web Development
 
 ⚡ Technologies
 
@@ -21,10 +21,12 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 ![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
