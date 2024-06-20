@@ -11,7 +11,7 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrandy0027@gmail.com)
 
 - 👀 I am currently looking for internship or full-time position as a frontend developer
-- 📖 I am currently learning mongoDB
+- 📖 I am currently learning MERN Stack
 - 🖥 and I am very interested in fullstack MERN
 
 ⚡ Technologies
@@ -27,6 +27,7 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 ![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
