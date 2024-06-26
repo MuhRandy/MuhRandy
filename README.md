@@ -12,7 +12,7 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 
 - 👀 I am currently looking for internship or full-time position as a frontend developer
 - 📖 I am currently learning MERN Stack
-- 🖥 and I am interested in fullstack
+- 🖥 and I am interested in becoming fullstack
 
 ⚡ Technologies
 
