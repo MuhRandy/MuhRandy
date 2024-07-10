@@ -11,7 +11,7 @@ After graduating from Mathematics Lambung Mangkurat in 2022, I am actively engag
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrandy0027@gmail.com)
 
 - 👀 I am currently looking for internship or full-time position as a frontend developer
-- 📖 I am currently learning MERN Stack Auth
+- 📖 I am currently learning basics and foundations at The Odin Project and Hacktiv8
 - 🖥 and I am interested in becoming fullstack
 
 ⚡ Technologies
